@@ -10,7 +10,7 @@
 $servername = "localhost";
 $username = "nfcphotouser";
 $password = "nfcphotopassword";
-$dbname = "nfcphoto";
+$dbname = "nfcphotodb";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
